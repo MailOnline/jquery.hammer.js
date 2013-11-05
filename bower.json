@@ -4,7 +4,7 @@
     "main": ["jquery.hammer.js"],
     "dependencies": {
       "jquery": "*",
-      "hammerjs": "1.0.x"
+      "hammerjs": "1.0.6-mol"
     },
     "ignore": [
         "tests",
