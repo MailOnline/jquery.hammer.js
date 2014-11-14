@@ -1,6 +1,6 @@
 {
     "name": "jquery-hammerjs",
-    "version": "1.0.1-mol",
+    "version": "1.0.2-mol",
     "main": ["jquery.hammer.js"],
     "dependencies": {
       "jquery": "*",
